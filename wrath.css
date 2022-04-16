@@ -1,4 +1,4 @@
-body {background: url("https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg");background-repeat: repeat-y;  background-position: center;background-attachment: fixed;background-size: cover;color: #000;}
+body {background: url("https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg");background-repeat: repeat-y;  background-position: center;background-attachment: fixed;background-size: 100%;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
