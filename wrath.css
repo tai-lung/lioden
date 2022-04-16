@@ -1,4 +1,4 @@
-body {background: url("https://github.com/tai-lung/lioden/blob/main/imagem_2022-04-15_224759399.png?raw=true");background-repeat: repeat-y;background-size: auto;color: #000;}
+body {background: url("https://github.com/tai-lung/lioden/blob/main/imagem_2022-04-15_224759399.png?raw=true") fixed;background-repeat: repeat-y;background-size: auto;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
