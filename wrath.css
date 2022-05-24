@@ -123,13 +123,13 @@ background: none;
 }
 
 .alert-danger {
-color: #ffffff;
+color: #000;
 background: rgba(65, 176, 111, 0.3);
 border: 1px solid #000;
 }
 
 .alert-success {
-color: #ffffff;
+color: #000;
 background: rgba(176, 98, 65, 0.3);
 border: 1px solid #000;
 }
@@ -142,6 +142,14 @@ border: 1px solid #000;
  
 .breadcrumb>.active {
 color: #000;
+}
+
+.breadcrumb::after {
+    content: "CSS by CSS by Scilenci #79146 and edited by Leo #210424";
+    color: #000000;
+    position: absolute;
+    right: 13%;
+    z-index: 100;
 }
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
