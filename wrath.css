@@ -1,6 +1,7 @@
 /*
   CSS by Scilenci (#79146).
   Lioden Logo by Katie (#106445).
+Background image "The Great Day of His Wrath" by John Martin.
 */
 
 body {background: url("https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg");background-repeat: repeat-y;  background-position: center;background-attachment: fixed;background-size: 100%;color: #000;}
@@ -145,7 +146,7 @@ color: #000;
 }
 
 .breadcrumb::after {
-    content: "CSS by CSS by Scilenci #79146 and edited by Leo #210424";
+    content: "CSS by Scilenci and edited by <a href="https://www.lioden.com/territory.php?id=210424">Leo</a>;
     color: #000000;
     position: absolute;
     right: 13%;
@@ -213,6 +214,54 @@ border-left: none;
 	background: rgba(170, 183, 174, 0.3);
 	border: 1px solid #000;
   border-left: none;
+}
+
+/* stupid scroll bar */
+::-webkit-scrollbar {
+	width: 7px;
+	height: 7px;
+}
+::-webkit-scrollbar-track {
+	background: rgba(0, 0, 0, 0);
+}
+::-webkit-scrollbar-thumb {
+	background: #ffffff;
+	border-radius: 4px;
+}
+
+/* all images */
+
+/* preggy ladies */
+div.cave-grid>img {
+	content: url('https://i.imgur.com/XPN4pHk.jpeg')!important;
+}
+/*caves */
+a[href$="45363"]>div.cave-grid>img {
+	content: url('https://i.imgur.com/SOSnRUb.jpeg')!important;
+}
+a[href$="43783"]>div.cave-grid>img {
+	content: url('https://i.imgur.com/PcqIqo9.jpeg')!important;
+}
+a[href$="38366"]>div.cave-grid>img {
+	content: url('https://i.imgur.com/ujgR4hk.jpeg')!important;
+}
+
+
+/* unsorted*/
+a[href$="unsorted.php?id=116939"]>div.cave-grid>img {
+	content: url('https://i.imgur.com/202zNIM.jpeg')!important;
+}
+/* lion owerview */
+a[href$="lionoverview.php?id=116939"]>div.cave-grid>img {
+	content: url('https://i.imgur.com/jWhzzQh.jpeg')!important;
+}
+/* beetle dump */
+.mound-grid img {
+	background: url('IMAGE URL HERE');
+	width: 0;
+	height: 0;
+	padding-top: 80px;
+	padding-right: 130px;
 }
 
 /* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-3/cur246.ani), url(https://cur.cursors-4u.net/cursors/cur-3/cur246.png), auto !important;} /* End https://www.cursors-4u.com */
