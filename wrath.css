@@ -250,6 +250,8 @@ a[href$="220854"]>div.cave-grid>img {
 /* unsorted*/
 a[href$="unsorted.php?id=210424"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgTHK-EBMvKdJTHtb9HFxSnuIR6D7jlJQo2Z0I6PIe6Y6Rx1OsAzJ2UFbIFOj6kkKyR4KKIjSR879Vpm_o-qC1srDh7EOYW4BzXLqNXA7LNdxdEKWjWDEj2vb3phYTLZj7apqwcrRbSnTGbzva3_5qpN_R-ArO3PNxpthb0x3qNxnchLSrtKxExaj8Xpg')!important;
+	width: 0;
+	height: 0;
 }
 /* lion overview */
 a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
