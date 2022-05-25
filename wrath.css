@@ -249,7 +249,7 @@ a[href$="220854"]>div.cave-grid>img {
 
 /* unsorted*/
 a[href$="unsorted.php?id=210424"]>div.cave-grid>img {
-	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEhWXTewJh_B1xpmjhud_TfRHxnePUy58xZ2ZFuFuh6RGPrl3YDFkQLFY0fpnwx2nriJl97xo8ywJalE3yLPx4WwwneOiMMfB8Kv9t9jzf3umLynoGF8KejMMu67jCkfbEwvSUma-wkXvqQVuG0jyss0FyIJSmlBeyrFqce6tm76zIc0rB1pX-6x-amr6w')!important;
+	content: url('none')!important;
 	opacity: 0.5;
 }
 /* lion overview */
@@ -259,7 +259,7 @@ a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
 }
 /* beetle dump */
 .mound-grid img {
-	background: url('https://blogger.googleusercontent.com/img/a/AVvXsEhhPaD481GFAHR_8PwrUmf3-4icys6xFrd8SytSKAVCVmOCX6t6IKFZ5DgqrYuBkkKZ4BAqd1JuWnv3TZwK5NNMlplhx8k5Rivk4wcbASj7KdnLVe5EuyKK_t4LnWb2OZoCBALBMFiLCoutx_RohzzmYfeJydGErC5H3XPJ5y65j-ubg0ox45WFtD0DNA');
+	background: url('none');
 	width: 0;
 	height: 0;
 	opacity: 0.5;
