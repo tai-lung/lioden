@@ -183,7 +183,7 @@ border-collapse: separate;
 }
 
 .table .right, .table .right_odd {
-background: none;
+background: 0;
 border: 0px solid #000;
 }
 
@@ -226,18 +226,18 @@ border-left: none;
 	background: #ffffff;
 }
 ::-webkit-scrollbar-thumb {
-	background: rgba(0, 0, 0, 0);
+	background: rgba(0, 0, 0, 1);
 	border-radius: 4px;
 }
 
 /* all images */
 
-/* preggy ladies */
+/* preggy ladies girls by peep */
 div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgZWCItsGcbjctu_XOGciJuZufzXAxfL-6gV-nDtURWVIVFIJjntdWGJ2rhbPw97Jq6qeCgZppJtOKLL0emrQqm1NDPYi6bGO8A5EaEs_0-rFinVZnBUPlZInR5gsmg1NbZf1pYSpxca6KEQ2h9w7FljNcJyPTTQIigw8BJEognPMxD_lVIxe9eIj-3Kg')!important;
 	opacity: 0.5;
 }
-/*caves */
+/*caves 1 is elsweyr = angeldust, 2 is skyrim = white wine*/
 a[href$="217730"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEhhPaD481GFAHR_8PwrUmf3-4icys6xFrd8SytSKAVCVmOCX6t6IKFZ5DgqrYuBkkKZ4BAqd1JuWnv3TZwK5NNMlplhx8k5Rivk4wcbASj7KdnLVe5EuyKK_t4LnWb2OZoCBALBMFiLCoutx_RohzzmYfeJydGErC5H3XPJ5y65j-ubg0ox45WFtD0DNA')!important;
 	opacity: 0.5;
@@ -247,22 +247,20 @@ a[href$="220854"]>div.cave-grid>img {
 	opacity: 0.5;
 }
 
-/* unsorted*/
+/* unsorted beamer boy*/
 a[href$="unsorted.php?id=210424"]>div.cave-grid>img {
-	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgRu9uc1IRzI06YiacIO-WKRJTzc71JsWKIuv80LhwHucv0317QbiEuy1pSOQBtEmorKpqMqElI1beSz-aoJtQfBpf1t8GeyQCVLcOOLd5fgdrTOOU1keFRU12heXkwbDU8rWi9Ya74AqSa2vPZCwZmh-hfKmNi8sJTnrI9O09QF480_ANvdMw9dbpL5g')!important;
-	width: 0;
-	height: 0;
-}
-/* lion overview */
-a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEhe2g8TgzsqavevxtUqQYuavdqQzikduOfaOp0-mOnzNcNdLvKKb5CYfFqS_7mZpblEpaN92oYTmb3TvWoa0N7Eh1004isLZAYFSKEuvH651FekllddUlrjKcg4wxnUZ5c4xOC9FdZ22EdOa6NE6zfp0Bn2Lva_v-qka_LoL6lVC_4c082rSCKlTRSGPw')!important;
+}
+/* lion overview giving girls cocaine*/
+a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
+	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgRu9uc1IRzI06YiacIO-WKRJTzc71JsWKIuv80LhwHucv0317QbiEuy1pSOQBtEmorKpqMqElI1beSz-aoJtQfBpf1t8GeyQCVLcOOLd5fgdrTOOU1keFRU12heXkwbDU8rWi9Ya74AqSa2vPZCwZmh-hfKmNi8sJTnrI9O09QF480_ANvdMw9dbpL5g')!important;
 	opacity: 0.5;
 }
-/* beetle dump */
+/* beetle dump kiss */
 .mound-grid img {
 	background: url('https://2.bp.blogspot.com/-0uW-iXX_u5o/YFz7Tw3ko2I/AAAAAAAATlY/aaQAd7kAhLEY8pJ-AvSJmMXUNNpKvkqCACK4BGAYYCw/s1600/13.%2BLil%2BPeep%2B-%2BKiss.jpg');
 	opacity: 0.5;
-	padding-top: 80px;
+	padding-top: 80px; /* ????idk */
 	padding-right: 130px;
 }
 
