@@ -249,7 +249,7 @@ a[href$="220854"]>div.cave-grid>img {
 
 /* unsorted*/
 a[href$="unsorted.php?id=210424"]>div.cave-grid>img {
-	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgTHK-EBMvKdJTHtb9HFxSnuIR6D7jlJQo2Z0I6PIe6Y6Rx1OsAzJ2UFbIFOj6kkKyR4KKIjSR879Vpm_o-qC1srDh7EOYW4BzXLqNXA7LNdxdEKWjWDEj2vb3phYTLZj7apqwcrRbSnTGbzva3_5qpN_R-ArO3PNxpthb0x3qNxnchLSrtKxExaj8Xpg')!important;
+	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgRu9uc1IRzI06YiacIO-WKRJTzc71JsWKIuv80LhwHucv0317QbiEuy1pSOQBtEmorKpqMqElI1beSz-aoJtQfBpf1t8GeyQCVLcOOLd5fgdrTOOU1keFRU12heXkwbDU8rWi9Ya74AqSa2vPZCwZmh-hfKmNi8sJTnrI9O09QF480_ANvdMw9dbpL5g')!important;
 	width: 0;
 	height: 0;
 }
@@ -260,9 +260,7 @@ a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
 }
 /* beetle dump */
 .mound-grid img {
-	background: url('none');
-	width: 0;
-	height: 0;
+	background: url('https://2.bp.blogspot.com/-0uW-iXX_u5o/YFz7Tw3ko2I/AAAAAAAATlY/aaQAd7kAhLEY8pJ-AvSJmMXUNNpKvkqCACK4BGAYYCw/s1600/13.%2BLil%2BPeep%2B-%2BKiss.jpg');
 	opacity: 0.5;
 	padding-top: 80px;
 	padding-right: 130px;
