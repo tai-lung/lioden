@@ -146,7 +146,7 @@ color: #000;
 }
 
 .breadcrumb::after {
-    content: "CSS by Scilenci and edited by Leo</a>;
+    content: "CSS by Scilenci and edited by Leo";
     color: #000000;
     position: absolute;
     right: 13%;
