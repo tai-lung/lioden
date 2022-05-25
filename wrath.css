@@ -226,7 +226,7 @@ border-left: none;
 	background: #ffffff;
 }
 ::-webkit-scrollbar-thumb {
-	background: rgba(0, 0, 0, 1);
+	background: rgba(46, 58, 230, 1);
 	border-radius: 4px;
 }
 
@@ -251,9 +251,9 @@ a[href$="220854"]>div.cave-grid>img {
 a[href$="unsorted.php?id=210424"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEhe2g8TgzsqavevxtUqQYuavdqQzikduOfaOp0-mOnzNcNdLvKKb5CYfFqS_7mZpblEpaN92oYTmb3TvWoa0N7Eh1004isLZAYFSKEuvH651FekllddUlrjKcg4wxnUZ5c4xOC9FdZ22EdOa6NE6zfp0Bn2Lva_v-qka_LoL6lVC_4c082rSCKlTRSGPw')!important;
 }
-/* lion overview giving girls cocaine*/
+/* lion overview kisses in the wind*/
 a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
-	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgRu9uc1IRzI06YiacIO-WKRJTzc71JsWKIuv80LhwHucv0317QbiEuy1pSOQBtEmorKpqMqElI1beSz-aoJtQfBpf1t8GeyQCVLcOOLd5fgdrTOOU1keFRU12heXkwbDU8rWi9Ya74AqSa2vPZCwZmh-hfKmNi8sJTnrI9O09QF480_ANvdMw9dbpL5g')!important;
+	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEiIDTpDBD7KjBpI1NYk8Zkh3COBgHS0rrHB1U86PjxcNU0jBStBeLgOWVqN7jh0LuFZyoU7f3rtLCYoc_Eo8H79A-rCf2psGZi2-7KBJ2_YUpBuacS_Et0LT9jwK9TXRkEAa0AcuLrZ9NaHhlUwcxk_uo5TR6XcMXFQfrrlfu43YJNEF5ZGsZh2jt4trw')!important;
 	opacity: 0.5;
 }
 /* beetle dump kiss */
