@@ -265,4 +265,42 @@ a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
 	padding-right: 0px;
 }
 
+.boxcontainer {
+	background: none;
+	height: auto;
+	padding: 0px;
+	display: flex;
+	justify-content: center
+}
+
+.Box1 {
+	float: left;
+	background: rgba(0, 0, 0, 0);
+	color: white;
+	padding: 15px;
+	border: white 1px;
+	border-radius: 5px;
+	margin: 15px;
+	float: left;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+}
+
+.Box2 {
+	float: left;
+	background: rgba(0,0,0,0);
+	color: white;
+	padding: 15px;
+	border: white 1px;
+	border-radius: 5px;
+	margin: 15px;
+	float: right;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+}
+
 /* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-3/cur246.ani), url(https://cur.cursors-4u.net/cursors/cur-3/cur246.png), auto !important;} /* End https://www.cursors-4u.com */
