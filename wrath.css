@@ -266,7 +266,7 @@ a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
 }
 
 /*Boxes*/
-.boxcontainer {height: 400px;background: none !important;padding: 5px}
+.boxcontainer {height: 400px;background: none !important;padding: 17.5px}
 .scrollyleft {overflow: auto;float:left;height: 350px; width: 400px;background: rgba(255,255,255,0.3);border-radius: 10px;border: 1px solid white;color: black;padding 5px;margin: auto; margin-bottom: 10px;}
 .scrollyright {overflow: auto;float:right;height: 170px;width: 350px;background: rgba(255,255,255,0.3);border-radius: 10px;border: 1px solid white;color: black;padding 5px;margin: auto; margin-bottom: 10px;}
 .scrollyleft::-webkit-scrollbar {width: 12px;}
