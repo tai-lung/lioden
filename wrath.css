@@ -126,13 +126,13 @@ background: none;
 
 .alert-danger {
 color: #000;
-background: rgba(65, 176, 111, 0.3);
+background: rgba(176, 98, 65, 0.3);
 border: 1px solid #000;
 }
 
 .alert-success {
 color: #000;
-background: rgba(176, 98, 65, 0.3);
+background: rgba(65, 176, 111, 0.3);
 border: 1px solid #000;
 }
 
