@@ -238,13 +238,18 @@ div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEgZWCItsGcbjctu_XOGciJuZufzXAxfL-6gV-nDtURWVIVFIJjntdWGJ2rhbPw97Jq6qeCgZppJtOKLL0emrQqm1NDPYi6bGO8A5EaEs_0-rFinVZnBUPlZInR5gsmg1NbZf1pYSpxca6KEQ2h9w7FljNcJyPTTQIigw8BJEognPMxD_lVIxe9eIj-3Kg')!important;
 	opacity: 0.5;
 }
-/*caves 1 is elsweyr = angeldust, 2 is skyrim = white wine*/
+/*caves 1 is elsweyr = angeldust, 2 is skyrim = white wine, 3 is morrowind = flannel*/
 a[href$="217730"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEhhPaD481GFAHR_8PwrUmf3-4icys6xFrd8SytSKAVCVmOCX6t6IKFZ5DgqrYuBkkKZ4BAqd1JuWnv3TZwK5NNMlplhx8k5Rivk4wcbASj7KdnLVe5EuyKK_t4LnWb2OZoCBALBMFiLCoutx_RohzzmYfeJydGErC5H3XPJ5y65j-ubg0ox45WFtD0DNA')!important;
 	opacity: 0.5;
 }
 a[href$="220854"]>div.cave-grid>img {
 	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEjT0lwafPTUze_DU7BvDE6IZ5OFJJcC_YqhXXI2qhEKF6IaYrVHS-lcuh1ZuTjMs5uq-nMcFSB0qalOeRD1v5MRzhCVdTvRDAs8ncXhN_4_cPpyCG9RPS32eyqQEOSgxS6MFENWa3pIn1IMQUELndzgFr9BxnzMsrNnK7M2jXSGOhGq1ltwdSEAaKmy4Q')!important;
+	opacity: 0.5;
+}
+
+a[href$="257761"]>div.cave-grid>img {
+	content: url('https://blogger.googleusercontent.com/img/a/AVvXsEihxLFMrKAvDk3j7aNFxntYPZFEQIQ9F4U8FED2lhq7Fz9fPlvhL6znQadKrjqVNUgYGc6h-ivCMhAAjOkp_9tDgMFn43awUaasdkk94_ITvDOR6zULuxwKTiV7we35AvJjof6Ixb_NUi4P1ZGp2zl-ofxIht5YQIeRqpzILL9uaLvsvJLp8nOC_0vUSA')!important;
 	opacity: 0.5;
 }
 
@@ -261,8 +266,8 @@ a[href$="lionoverview.php?id=210424"]>div.cave-grid>img {
 .mound-grid img {
 	background: url('https://blogger.googleusercontent.com/img/a/AVvXsEiIDTpDBD7KjBpI1NYk8Zkh3COBgHS0rrHB1U86PjxcNU0jBStBeLgOWVqN7jh0LuFZyoU7f3rtLCYoc_Eo8H79A-rCf2psGZi2-7KBJ2_YUpBuacS_Et0LT9jwK9TXRkEAa0AcuLrZ9NaHhlUwcxk_uo5TR6XcMXFQfrrlfu43YJNEF5ZGsZh2jt4trw');
 	opacity: 0.5;
-	padding-top: 1px; /* ????idk era 80 e 130 */
-	padding-right: 1px;
+	padding-top: 80px; /* ????idk era 80 e 130 */
+	padding-right: 130px;
 }
 
 /*Boxes*/
